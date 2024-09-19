@@ -1,7 +1,3 @@
-To replace the content with Dnyaneshwar Shekade's information, you'll need to adjust the details as follows. Here's a template:
-
----
-
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Shekade</h1>
 <h3 align="center">Full Stack Engineer with over 3 years of experience</h3>
 
@@ -11,9 +7,9 @@ To replace the content with Dnyaneshwar Shekade's information, you'll need to ad
 
 - 🌱 I’m currently exploring **RAG applications & Applied LLMs**
 
-- 👨‍💻 All of my projects are available [here](https://www.dnyaneshwarshekade.com/projects)
+- 👨‍💻 All of my projects are available [here](https:github.com/dnyaneshwarshekade)
 
-- 📫 How to reach me **dnyaneshwar.shekade@gmail.com**
+- 📫 How to reach me **shekade31@gmail.com**
 
 <!--
 ### 🛠 &nbsp;Languages and Tools
