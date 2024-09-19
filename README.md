@@ -52,6 +52,6 @@
 <p>
 <a href="https://linkedin.com/in/dnyaneshwarshekade"><img src="https://img.shields.io/badge/-dnyaneshwar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dnyaneshwar.shekade@gmail.com"><img src="https://img.shields.io/badge/-shekade31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/dnyaneshwarshekade"><img src="https://img.shields.io/badge/-@dnyaneshwar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/shekade31"><img src="https://img.shields.io/badge/-@dnyaneshwar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
