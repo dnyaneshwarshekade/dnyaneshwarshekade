@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=dnyaneshwar&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently exploring **RAG applications & Applied LLMs**
+- 🌱 I’m currently exploring **Linux Server Technologies and Web Deployment Technologies**
 
-- 👨‍💻 All of my projects are available [here](https:github.com/dnyaneshwarshekade)
+- 👨‍💻 All of my projects are available [here](/dnyaneshwarshekade)
 
 - 📫 How to reach me **shekade31@gmail.com**
 
