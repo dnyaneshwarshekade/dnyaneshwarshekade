@@ -28,3 +28,5 @@
 <a href="https://twitter.com/shekade31"><img src="https://img.shields.io/badge/-@dnyaneshwar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/amruthpillai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
