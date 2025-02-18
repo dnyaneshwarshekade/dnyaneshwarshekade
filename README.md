@@ -20,6 +20,10 @@
 </a>
 </p>
 
+<p align="left"> <a href="http://www.github.com/dnyaneshwarshekade"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=drahulsingh&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
+  </a> </p>
+</div>
+
 ## GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dnyaneshwarshekade&theme=darkhub&row=2&column=4)
