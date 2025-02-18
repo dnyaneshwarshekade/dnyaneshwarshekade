@@ -20,6 +20,10 @@
 </a>
 </p>
 
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dnyaneshwarshekade&theme=darkhub&row=2&column=4)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
