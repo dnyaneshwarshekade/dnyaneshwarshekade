@@ -24,6 +24,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dnyaneshwarshekade&theme=darkhub&row=2&column=4)
 
+![dnyaneshwar's's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarshekade&theme=github_dark&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&layout=compact)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
