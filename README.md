@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Linux Server Technologies and Web Deployment Technologies**
 
-- 👨‍💻 All of my projects are available [here](/)
+- 👨‍💻 Check My Portfolio Website [here](https://dnyaneshwarshekade.github.io)
 
 - 📫 How to reach me **shekade31@gmail.com**
 
