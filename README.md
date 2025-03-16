@@ -2,7 +2,7 @@
 <h3 align="center">Linux Server & DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnyaneshwarshekade&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=dnyaneshwar&color=blueviolet&style=flat">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen">
   <img src="https://img.shields.io/badge/Focus-Linux%20|%20DevOps%20|%20Cloud-orange">
 </p>
