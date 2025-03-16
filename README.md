@@ -80,7 +80,7 @@
   <a href="https://twitter.com/shekade31"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://dnyaneshwarshekade.github.io"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://github.com/dnyaneshwarshekade"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://medium.com/@shekade31"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="https://dnyaneshwarshekade.medium.com"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Support:</h3>
