@@ -56,11 +56,12 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/dnyaneshwarshekade/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=project1&theme=dark" />
+  <a href="https://github.com/dnyaneshwarshekade/virtualizor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=virtualizor&theme=dark" />
   </a>
-  <a href="https://github.com/dnyaneshwarshekade/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=project2&theme=dark" />
+  <br />
+  <a href="https://dnyaneshwarshekade.github.io/virtualizor" target="_blank">
+    <img src="https://img.shields.io/badge/Live Demo-virtualizor-blue?style=for-the-badge" />
   </a>
 </div>
 
