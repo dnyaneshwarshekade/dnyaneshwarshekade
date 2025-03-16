@@ -181,4 +181,12 @@
   <a href="https://www.buymeacoffee.com/dnyaneshwarshekade">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
-  <a href="https://github.com/sponsors
+  <a href="https://github.com/sponsors/dnyaneshwarshekade">
+    <img src="https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="50" alt="GitHub Sponsors" />
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
