@@ -56,12 +56,20 @@
 ## 📌 Featured Projects
 
 <div align="center">
+  <!-- Virtualizor Repository Card -->
   <a href="https://github.com/dnyaneshwarshekade/virtualizor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=virtualizor&theme=dark" />
   </a>
   <br />
   <a href="https://dnyaneshwarshekade.github.io/virtualizor" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-virtualizor-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live Demo-Virtualizor-blue?style=for-the-badge" />
+  </a>
+  
+  <br /><br />
+
+  <!-- PSP Project -->
+  <a href="https://psp.agni-byte.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Live Demo-PSP-orange?style=for-the-badge" />
   </a>
 </div>
 
