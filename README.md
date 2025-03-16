@@ -59,14 +59,12 @@
   
   <!-- Virtualizor Project -->
   <a href="https://dnyaneshwarshekade.github.io/virtualizor" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-Virtualizor-blue?style=for-the-badge" alt="Virtualizor Live Demo" />
+    <img src="https://img.shields.io/badge/Live Demo-Virtualizor-blue?style=for-the-badge" alt="Virtualization server Tools Live Demo" />
   </a>
 
-  <br /><br />
-
-  <!-- PSP Project -->
+  <!-- Powerpointpanel  Project -->
   <a href="https://psp.agni-byte.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-PSP-orange?style=for-the-badge" alt="PSP Live Demo" />
+    <img src="https://img.shields.io/badge/Live Demo-PSP-orange?style=for-the-badge" alt="PSP PointStreamPanel Live Demo" />
   </a>
 
 </div>
