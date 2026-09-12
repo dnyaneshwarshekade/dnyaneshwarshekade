@@ -118,3 +118,12 @@ status: passing
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshwarshekade&theme=dark&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8" height="165"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-000000?style=flat-square&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/dnyaneshwarshekade)
+[![Sponsor](https://img.shields.io/badge/Sponsor-000000?style=flat-square&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/dnyaneshwarshekade)
+
+</div>
