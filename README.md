@@ -1,291 +1,120 @@
-<h1 align="center">Hi 👋, I'm Dnyaneshwar Shekade</h1>
-<h3 align="center">Linux Server & DevOps Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnyaneshwarshekade&color=blueviolet&style=flat">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen">
-  <img src="https://img.shields.io/badge/Focus-Linux%20|%20DevOps%20|%20Cloud-orange">
-  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-success">
-</p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Linux+Server+Administration;DevOps+Engineering;Cloud+Infrastructure;Automation+Expert;Kubernetes+Specialist;CI%2FCD+Pipeline+Builder;Docker+Containerization;AWS+Solutions+Architect;Python+Automation+Developer;ReactJS+Applications" alt="Typing SVG" />
+
+```
+$ whoami
+dnyaneshwar-shekade — Linux Server & DevOps Engineer
+
+$ uptime
+5+ years automating infrastructure
+
+$ cat status.txt
+Available for freelance & remote work
+```
+
+[![Portfolio](https://img.shields.io/badge/dnyan.cloud-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://dnyan.cloud)
+[![Mail](https://img.shields.io/badge/shekade31@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:shekade31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyaneshwarshekade)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dnyaneshwarshekade)
+
 </div>
 
-<p align="center">
-  <a href="https://dnyan.cloud" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-dnyan.cloud-0891b2?style=for-the-badge" alt="Portfolio">
-  </a>
-</p>
-
-## 👨‍💻 About Me
-
-- 🌱 Currently exploring **Linux Server Technologies and Web Deployment**
-- 🔭 Working on **Infrastructure as Code and Containerization Solutions**
-- 🚀 Passionate about **Automation, CI/CD, and Cloud-Native Technologies**
-- 🐳 Expert in **Docker containerization and orchestration**
-- ☁️ Specialized in **AWS EC2, S3, DynamoDB, and cloud architecture**
-- ⚛️ Building modern web applications with **ReactJS**
-- 🐍 Proficient in **Python scripting and RESTful API development**
-- 🌐 Portfolio: **[dnyan.cloud](https://dnyan.cloud)**
-- 📫 Reach me at: **shekade31@gmail.com**
-- 💬 Ask me about **Linux, Docker, Kubernetes, AWS, CI/CD, Python, ReactJS**
-- 🔍 Open to collaborate on **Open Source Projects and Cloud Infrastructure**
-- ⚡ Fun fact: **I automate everything, even my coffee breaks!**
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Operating Systems</b></summary>
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white">
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-</details>
 
-<details open>
-<summary><b>Containers & Orchestration</b></summary>
+## pipeline.yml
+
+```yaml
+stages:
+  - provision   # Terraform, Ansible, CloudFormation
+  - containerize # Docker, Docker Compose
+  - orchestrate  # Kubernetes, Helm
+  - deploy       # Jenkins, GitHub Actions, ArgoCD
+  - observe      # Prometheus, Grafana, ELK
+
+status: passing
+```
+
 <br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white">
-</p>
-</details>
 
-<details open>
-<summary><b>Cloud Platforms & Services</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>IaC & Configuration Management</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>CI/CD & Monitoring</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>Programming & Scripting</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-</details>
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>APIs & Frameworks</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</p>
-</details>
-
-<details open>
-<summary><b>Databases & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-</details>
-
-## 💼 Core Competencies
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### DevOps & Infrastructure
-- 🐳 Docker containerization & multi-stage builds
-- ☸️ Kubernetes cluster management
-- 🏗️ Infrastructure as Code (Terraform, Ansible)
-- 🔄 CI/CD pipeline design & implementation
-- 📊 Monitoring & logging (Prometheus, Grafana, ELK)
-- 🔐 Security hardening & compliance
-
-</td>
-<td valign="top" width="50%">
-
-### Cloud & Development
-- ☁️ AWS architecture (EC2, S3, DynamoDB, Lambda)
-- ⚛️ ReactJS application development
-- 🐍 Python automation & scripting
-- 🌐 RESTful API design & development
-- 🗄️ Database management & optimization
-- 🚀 Performance tuning & scaling
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub Analytics
+## stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dnyaneshwarshekade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarshekade&theme=github_dark&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&layout=compact"/>
+
+**cloud**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900">
+<img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900">
+<img src="https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=4053D6">
+
+**containers & orchestration**
+<br>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5">
+<img src="https://img.shields.io/badge/Helm-000000?style=flat-square&logo=helm&logoColor=0F1689">
+<img src="https://img.shields.io/badge/Podman-000000?style=flat-square&logo=podman&logoColor=892CA0">
+
+**infrastructure as code**
+<br>
+<img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=7B42BC">
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=EE0000">
+<img src="https://img.shields.io/badge/Pulumi-000000?style=flat-square&logo=pulumi&logoColor=8A3391">
+
+**ci/cd & observability**
+<br>
+<img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939">
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF">
+<img src="https://img.shields.io/badge/ArgoCD-000000?style=flat-square&logo=argo&logoColor=EF7B4D">
+<img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=E6522C">
+<img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=F46800">
+<img src="https://img.shields.io/badge/ELK-000000?style=flat-square&logo=elastic&logoColor=005571">
+
+**languages**
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8">
+<img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=4EAA25">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E">
+
+**web & data**
+<br>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D">
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshwarshekade&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
-</p>
+<br>
 
-## 🏆 GitHub Trophies
+## certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnyaneshwarshekade&theme=darkhub&row=2&column=4&margin-w=15&margin-h=15"/>
-</p>
+```
+[x] AWS Certified Solutions Architect
+[x] Certified Kubernetes Administrator
+[x] Docker Certified Associate
+[x] HashiCorp Certified Terraform Associate
+[x] Red Hat Certified Engineer
+```
 
-## 🚀 Featured Projects
+<br>
+
+## deployed
+
+| repo | description |
+|---|---|
+| [kubernetes-deployment-templates](https://github.com/dnyaneshwarshekade/kubernetes-deployment-templates) | Production-ready K8s manifests & Helm charts |
+| [terraform-aws-modules](https://github.com/dnyaneshwarshekade/terraform-aws-modules) | Reusable Terraform modules for AWS |
+| [docker-compose-stacks](https://github.com/dnyaneshwarshekade/docker-compose-stacks) | Multi-service Docker Compose stacks |
+| [python-automation-scripts](https://github.com/dnyaneshwarshekade/python-automation-scripts) | Infra automation & AWS SDK scripts |
+
+<br>
 
 <div align="center">
-  <a href="https://github.com/dnyaneshwarshekade/kubernetes-deployment-templates">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=kubernetes-deployment-templates&theme=dark" />
-  </a>
-  <a href="https://github.com/dnyaneshwarshekade/terraform-aws-modules">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=terraform-aws-modules&theme=dark" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwarshekade&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADD8&icon_color=00ADD8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwarshekade&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00ADD8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyaneshwarshekade&theme=dark&hide_border=true&background=00000000&ring=00ADD8&fire=00ADD8" height="165"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/dnyaneshwarshekade/docker-compose-stacks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=docker-compose-stacks&theme=dark" />
-  </a>
-  <a href="https://github.com/dnyaneshwarshekade/python-automation-scripts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dnyaneshwarshekade&repo=python-automation-scripts&theme=dark" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://dnyan.cloud" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Portfolio-0891b2?style=for-the-badge" alt="Portfolio Live Demo" />
-  </a>
-  <a href="https://dnyan.cloud/virtualizor" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Virtualizor-blue?style=for-the-badge" alt="Virtualization Server Tools Live Demo" />
-  </a>
-  <a href="https://psp.agni-byte.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-PSP-orange?style=for-the-badge" alt="PSP PointStreamPanel Live Demo" />
-  </a>
-</p>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Docker and Kubernetes](https://dnyaneshwarshekade.medium.com)
-- [AWS Infrastructure Automation: EC2, S3, and DynamoDB with Terraform](https://dnyaneshwarshekade.medium.com)
-- [Creating Production-Ready ReactJS Applications with CI/CD](https://dnyaneshwarshekade.medium.com)
-- [Python Automation: Building RESTful APIs with FastAPI](https://dnyaneshwarshekade.medium.com)
-- [Implementing GitOps Workflow with ArgoCD and Kubernetes](https://dnyaneshwarshekade.medium.com)
-- [Docker Multi-Stage Builds: Optimizing Container Images](https://dnyaneshwarshekade.medium.com)
-- [Advanced Linux Server Hardening Techniques](https://dnyaneshwarshekade.medium.com)
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyaneshwarshekade&theme=react-dark&hide_border=true" width="100%"/>
-
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker%20Certified%20Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/HashiCorp%20Certified%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Red%20Hat%20Certified%20Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-</p>
-
-## 🤝🏻 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/dnyaneshwarshekade"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:shekade31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/shekade31"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://dnyan.cloud"><img src="https://img.shields.io/badge/-Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://github.com/dnyaneshwarshekade"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://dnyaneshwarshekade.medium.com"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-</p>
-
-## 📅 Availability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Freelance-Yes-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Remote%20Work-Preferred-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Relocation-Open-green?style=for-the-badge">
-</p>
-
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dnyaneshwarshekade">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/dnyaneshwarshekade">
-    <img src="https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="50" alt="GitHub Sponsors" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
